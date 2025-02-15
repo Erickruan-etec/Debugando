@@ -1,0 +1,11 @@
+<label for="id">Texto</label>
+
+
+
+<label for="dog">Cachorro</label>
+<input type="radio" id="dog" name="animal" value="cachorro">
+
+<label for="cat">Gato</label>
+<input type="radio" id="dog" name="animal" value="gato">
+
+Pular linha: &nbsp;
